@@ -1,0 +1,13 @@
+bg_image: assets/css/images/image_u8z.jpeg
+bg_color: "#1e40af"
+headline:
+  text: Wireless for Everyone - THE BIGGEST SALE OF THE SEASON!
+  color: "#ed0909"
+  size_class: text-3xl md-text-5xl
+  weight: font-extrabold
+  size: text-3xl
+subtext:
+  text: 50GlobalTech takes the e-commerce expertise of our parent company and pairs it with a volume-driven pricing and inventory strategy.We focus on keeping unlocked smartphones, tablets, and advanced data devices moving efficiently through active inventory management, streamlined order processing, fulfillment coordination, and international shipping support. For in-stock products, orders are typically prepared for shipment within 1–3 business days, with international delivery generally taking approximately 3–10 business days after dispatch, depending on destination, carrier service, customs clearance, and local delivery conditions. Shipment tracking is provided when available. High inventory turnover helps us maintain current product availability and competitive pricing for technology buyers worldwide. 50GlobalTech — Powering Worldwide Connections™
+  color: "#e2e8f0"
+  size_class: text-xl md-text-2xl
+  size: text-xl

@@ -1,0 +1,7 @@
+#(_data/branding.yml)
+name_part_one: "50Global"
+name_part_two: "Tech"
+text_size: "text-xl"
+font_weight: "font-bold"
+color_one: "#FB242B"
+color_two: "#ffffff"
