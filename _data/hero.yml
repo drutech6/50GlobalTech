@@ -1,4 +1,4 @@
-bg_image: assets/css/images/image_u8z.jpeg
+bg_image: 'assets/css/images/image_u8z.jpeg'
 bg_color: "#1e40af"
 headline:
   text: Wireless for Everyone - THE BIGGEST SALE OF THE SEASON!
